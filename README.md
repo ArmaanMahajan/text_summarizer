@@ -16,6 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## To do
-1. Pasting text doesn't work on emulator
-2. UI needs to be updated before summarization comes
+1. Pasting text doesn't work on emulator- Done
+2. UI needs to be updated before summarization comes- Done
 3. Fill in rest of space with a widget surrounding the summary
